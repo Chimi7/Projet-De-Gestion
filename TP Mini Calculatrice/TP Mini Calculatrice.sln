@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TP Mini Calculatrice", "TP Mini Calculatrice\TP Mini Calculatrice.vbproj", "{69B7A9B0-206F-44F5-A32C-2069E5087F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B7A9B0-206F-44F5-A32C-2069E5087F59}.Debug|x86.ActiveCfg = Debug|x86
+		{69B7A9B0-206F-44F5-A32C-2069E5087F59}.Debug|x86.Build.0 = Debug|x86
+		{69B7A9B0-206F-44F5-A32C-2069E5087F59}.Release|x86.ActiveCfg = Release|x86
+		{69B7A9B0-206F-44F5-A32C-2069E5087F59}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

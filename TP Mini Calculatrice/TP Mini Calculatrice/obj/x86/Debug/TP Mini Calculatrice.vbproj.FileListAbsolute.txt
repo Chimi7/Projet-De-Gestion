@@ -1,0 +1,8 @@
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\bin\Debug\TP Mini Calculatrice.exe
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\bin\Debug\TP Mini Calculatrice.pdb
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\bin\Debug\TP Mini Calculatrice.xml
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\obj\x86\Debug\TP Mini Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\obj\x86\Debug\TP Mini Calculatrice.exe
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\obj\x86\Debug\TP Mini Calculatrice.xml
+C:\Users\Jason H\Documents\Visual Studio 2010\Projects\TP Mini Calculatrice\TP Mini Calculatrice\obj\x86\Debug\TP Mini Calculatrice.pdb
