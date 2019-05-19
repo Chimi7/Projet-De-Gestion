@@ -1,0 +1,8 @@
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\bin\Debug\TP Tableau de 10 valeurs qui additione ses nombres.exe
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\bin\Debug\TP Tableau de 10 valeurs qui additione ses nombres.pdb
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\bin\Debug\TP Tableau de 10 valeurs qui additione ses nombres.xml
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\obj\x86\Debug\TP Tableau de 10 valeurs qui additione ses nombres.vbproj.GenerateResource.Cache
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\obj\x86\Debug\TP Tableau de 10 valeurs qui additione ses nombres.exe
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\obj\x86\Debug\TP Tableau de 10 valeurs qui additione ses nombres.xml
+C:\Users\Jason H\Desktop\Projet-De-Gestion\TP Tableau de 10 valeurs qui additione ses nombres\TP Tableau de 10 valeurs qui additione ses nombres\obj\x86\Debug\TP Tableau de 10 valeurs qui additione ses nombres.pdb
